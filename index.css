@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1 {
+    color: firebrick;
+    font-size: 80px;
+}
+
+p {
+    font-weight: bold;
+    margin-bottom: 50px;
+    height: 50px;
+    background-color: antiquewhite;
+    border: 2px solid red;
+    padding-top: 2px;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+}
